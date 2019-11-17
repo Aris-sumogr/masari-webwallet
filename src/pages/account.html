@@ -22,7 +22,7 @@
 			<div class="body" >
 				<div class="header-title" >{{ $t("accountPage.balanceBlock.title") }}</div>
 				<div class="content" >
-					<span class="walletAmount" >{{ $n(walletAmount / currencyDivider) }}</span> MSR
+					<span class="walletAmount" >{{ $n(walletAmount / currencyDivider) }}</span> SUMO
 					<tempate class="amount unlocked" v-if="unlockedWalletAmount !== walletAmount" >
 						<br/><span class="walletAmount" >{{ $t("accountPage.balanceBlock.unlocked") }}: {{ $n(unlockedWalletAmount / currencyDivider) }}</span> MSR
 					</tempate>
