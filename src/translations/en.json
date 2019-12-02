@@ -105,7 +105,7 @@
 		"emptyWallet": "You currently have no funds in this wallet.",
 		"waitSync": "Please wait until the wallet is updated.",
 		"beReallyPatient": "The initial setup can take some time...",
-		"getMSRAddress": "Receive MSR"
+		"getMSRAddress": "Receive SUMO"
 	  },
 	  "txDetails":{
 		"title":"Transaction details",
@@ -202,7 +202,7 @@
 	  }
 	},
 	"sendPage":{
-	  "title":"Send MSR",
+	  "title":"Send SUMO",
 	  "sendBlock":{
 		"address":{
 		  "label":"Destination address",
@@ -269,7 +269,7 @@
 	  }
 	},
 	"receivePage":{
-	  "title":"Receive MSR",
+	  "title":"Receive SUMO",
 	  "receiveBlock":{
 		"address":{
 		  "title":"Your address to receive funds:",
@@ -297,7 +297,7 @@
 	},
 	"miningPage":{
 	  "title":"Mine directly in your browser",
-	  "subtitle":"Support the network by mining and be rewarded with MSR",
+	  "subtitle":"Support the network by mining and be rewarded with SUMO",
 	  "parameterBlock":{
 		"title":"Parameters",
 		"labelDestinationAddress":"Wallet to mine",
@@ -311,7 +311,7 @@
 		"hashrate":"Hashrate",
 		"maxHashrate":"Max Hashrate",
 		"dedicatedHardware":"With dedicating mining software and hardware, you could earn more and help decentralize the network.",
-		"miningHandledBy":"This mining is handled by the mining pool get.SUMOKOINcoin.com"
+		
 	  }
 	},
 	"settingsPage":{
